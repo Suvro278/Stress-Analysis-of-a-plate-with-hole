@@ -1,0 +1,2 @@
+The codes for generalisation of coordinates are written in between 57-96 lines at get_connectivity_coordinate_data file.
+The codes for generalisation of load(trapezoidal) are written in between 75-138 lines of solver file.
